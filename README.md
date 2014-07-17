@@ -1,7 +1,7 @@
-Better Intelligent Camera Trap
+Tiger Tracker v2
 ==============================
 
- The new and improved intelligent camera trap repo.
+ The new and improved tiger tracker.
 
 Summer 2014 Members
 =================
