@@ -40,5 +40,8 @@ Installation
 --------------
 
 - sudo apt-get update
-- git clone https://github.com/UCSD-E4E/Better_Intelligent_Camera_Trap.git cameratrap
-- cd cameratrap
+- git clone https://github.com/UCSD-E4E/tiger_tracker_v2
+- mkdir images
+- mkdir videos
+- copy image and video files from Kastner Server into images/ and videos/
+- Track some tigers :D
